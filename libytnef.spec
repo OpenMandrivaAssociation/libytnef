@@ -14,6 +14,7 @@ Source0: http://downloads.sourceforge.net/ytnef/%{name}-%{version}.tar.bz
 License: GPLv2+
 Group: System/Libraries
 Url: http://ytnef.sourceforge.net/
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 TNEF Stream Parser Library to decode TNEF (winmail.dat) streams
