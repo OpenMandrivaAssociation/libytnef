@@ -1,6 +1,6 @@
 %define name libytnef
 %define version 1.5
-%define release %mkrel 2
+%define release %mkrel 3
 
 %define major 0
 %define libname %mklibname ytnef %major
