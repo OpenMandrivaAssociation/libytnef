@@ -5,7 +5,7 @@
 Summary:	TNEF Stream Parser Library
 Name:		libytnef
 Version:	1.5
-Release:	10
+Release:	11
 License:	GPLv2+
 Group:		System/Libraries
 Url:		http://ytnef.sourceforge.net/
