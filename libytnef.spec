@@ -12,7 +12,7 @@ Url:		https://github.com/Yeraze/ytnef/
 #Source0:	https://github.com/Yeraze/ytnef/archive/v1.9.3/ytnef-%{version}.tar.gz
 
 #Looks like tarball is broken, use master git.
-Source0:  https://github.com/Yeraze/ytnef/archive/master.tar.gz
+Source0:  https://github.com/Yeraze/ytnef/archive/ytnef-master.tar.gz
 
 %description
 TNEF Stream Parser Library to decode TNEF (winmail.dat) streams
