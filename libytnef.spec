@@ -10,7 +10,7 @@ License:	GPLv2+
 Group:		System/Libraries
 Url:		https://github.com/Yeraze/ytnef/tree/master/ytnef
 # Mismatch in version forces to use the master branch.
-Source:		https://github.com/Yeraze/ytnef/archive/master.zip
+Source0:		https://github.com/Yeraze/ytnef/archive/ytnef-master.zip
 
 Requires:	perl-MIME-tools
 Requires:	%{libname} = %{version}-%{release}
