@@ -6,7 +6,7 @@
 Summary:	TNEF Stream Parser Library
 Name:		libytnef
 Version:	2.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		System/Libraries
 Url:		https://github.com/Yeraze/ytnef
